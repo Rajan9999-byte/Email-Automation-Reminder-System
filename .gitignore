@@ -1,0 +1,6 @@
+/db/email.db
+__pycache__/
+.env
+node_modules/
+.vscode/
+.DS_Store
